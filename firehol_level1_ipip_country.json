@@ -1,0 +1,374 @@
+[
+	{
+		"code": "AE",
+		"value": 3584
+	},
+	{
+		"code": "AF",
+		"value": 7168
+	},
+	{
+		"code": "AFRINIC",
+		"value": 2198016
+	},
+	{
+		"code": "ANYCAST",
+		"value": 15
+	},
+	{
+		"code": "APNIC",
+		"value": 2805760
+	},
+	{
+		"code": "AR",
+		"value": 256
+	},
+	{
+		"code": "ARIN",
+		"value": 16384
+	},
+	{
+		"code": "AT",
+		"value": 9728
+	},
+	{
+		"code": "AU",
+		"value": 703233
+	},
+	{
+		"code": "BA",
+		"value": 4096
+	},
+	{
+		"code": "BACKBONE",
+		"value": 512
+	},
+	{
+		"code": "BD",
+		"value": 256
+	},
+	{
+		"code": "BE",
+		"value": 136961
+	},
+	{
+		"code": "BG",
+		"value": 5377
+	},
+	{
+		"code": "BR",
+		"value": 78083
+	},
+	{
+		"code": "CA",
+		"value": 303624
+	},
+	{
+		"code": "CH",
+		"value": 179715
+	},
+	{
+		"code": "CL",
+		"value": 131328
+	},
+	{
+		"code": "CN",
+		"value": 6632972
+	},
+	{
+		"code": "CO",
+		"value": 512
+	},
+	{
+		"code": "CR",
+		"value": 16384
+	},
+	{
+		"code": "CW",
+		"value": 1024
+	},
+	{
+		"code": "CY",
+		"value": 3072
+	},
+	{
+		"code": "CZ",
+		"value": 3336
+	},
+	{
+		"code": "DE",
+		"value": 322674
+	},
+	{
+		"code": "DK",
+		"value": 1543
+	},
+	{
+		"code": "EE",
+		"value": 17664
+	},
+	{
+		"code": "EG",
+		"value": 77824
+	},
+	{
+		"code": "ES",
+		"value": 15881
+	},
+	{
+		"code": "ET",
+		"value": 65536
+	},
+	{
+		"code": "EU",
+		"value": 139008
+	},
+	{
+		"code": "FI",
+		"value": 231681
+	},
+	{
+		"code": "FR",
+		"value": 177295
+	},
+	{
+		"code": "GB",
+		"value": 736777
+	},
+	{
+		"code": "GH",
+		"value": 31744
+	},
+	{
+		"code": "GR",
+		"value": 768
+	},
+	{
+		"code": "GT",
+		"value": 512
+	},
+	{
+		"code": "HK",
+		"value": 491035
+	},
+	{
+		"code": "HN",
+		"value": 31232
+	},
+	{
+		"code": "HR",
+		"value": 1
+	},
+	{
+		"code": "HU",
+		"value": 133378
+	},
+	{
+		"code": "ID",
+		"value": 96768
+	},
+	{
+		"code": "IE",
+		"value": 3593
+	},
+	{
+		"code": "IL",
+		"value": 7680
+	},
+	{
+		"code": "IN",
+		"value": 235240
+	},
+	{
+		"code": "IQ",
+		"value": 3072
+	},
+	{
+		"code": "IR",
+		"value": 11264
+	},
+	{
+		"code": "IS",
+		"value": 1024
+	},
+	{
+		"code": "IT",
+		"value": 97805
+	},
+	{
+		"code": "JO",
+		"value": 20480
+	},
+	{
+		"code": "JP",
+		"value": 1490961
+	},
+	{
+		"code": "KH",
+		"value": 1536
+	},
+	{
+		"code": "KR",
+		"value": 542213
+	},
+	{
+		"code": "KW",
+		"value": 2048
+	},
+	{
+		"code": "KZ",
+		"value": 1024
+	},
+	{
+		"code": "LACNIC",
+		"value": 14848
+	},
+	{
+		"code": "LB",
+		"value": 3072
+	},
+	{
+		"code": "LT",
+		"value": 3073
+	},
+	{
+		"code": "LU",
+		"value": 70145
+	},
+	{
+		"code": "LV",
+		"value": 5888
+	},
+	{
+		"code": "MD",
+		"value": 3328
+	},
+	{
+		"code": "MG",
+		"value": 8192
+	},
+	{
+		"code": "MX",
+		"value": 131328
+	},
+	{
+		"code": "MY",
+		"value": 65280
+	},
+	{
+		"code": "MZ",
+		"value": 2048
+	},
+	{
+		"code": "NG",
+		"value": 1792
+	},
+	{
+		"code": "NL",
+		"value": 442518
+	},
+	{
+		"code": "NO",
+		"value": 2817
+	},
+	{
+		"code": "NP",
+		"value": 512
+	},
+	{
+		"code": "NZ",
+		"value": 88576
+	},
+	{
+		"code": "PA",
+		"value": 5376
+	},
+	{
+		"code": "PE",
+		"value": 512
+	},
+	{
+		"code": "PH",
+		"value": 1024
+	},
+	{
+		"code": "PK",
+		"value": 423680
+	},
+	{
+		"code": "PL",
+		"value": 7175
+	},
+	{
+		"code": "PT",
+		"value": 4096
+	},
+	{
+		"code": "RO",
+		"value": 25856
+	},
+	{
+		"code": "RU",
+		"value": 87819
+	},
+	{
+		"code": "SC",
+		"value": 6656
+	},
+	{
+		"code": "SE",
+		"value": 87556
+	},
+	{
+		"code": "SG",
+		"value": 22043
+	},
+	{
+		"code": "SK",
+		"value": 1
+	},
+	{
+		"code": "SS",
+		"value": 256
+	},
+	{
+		"code": "SV",
+		"value": 1024
+	},
+	{
+		"code": "TH",
+		"value": 70656
+	},
+	{
+		"code": "TN",
+		"value": 81920
+	},
+	{
+		"code": "TR",
+		"value": 1282
+	},
+	{
+		"code": "TW",
+		"value": 19969
+	},
+	{
+		"code": "UA",
+		"value": 12288
+	},
+	{
+		"code": "UG",
+		"value": 2816
+	},
+	{
+		"code": "US",
+		"value": 5450680
+	},
+	{
+		"code": "VN",
+		"value": 108032
+	},
+	{
+		"code": "ZA",
+		"value": 832257
+	}
+]
